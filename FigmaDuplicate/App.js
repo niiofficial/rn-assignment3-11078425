@@ -25,31 +25,31 @@ export default function App() {
       id: '4',
       title: 'Read',
       subtitle: 'Task 4',
-      image: require('./imgs/img3.png'),
+      image: require('./imgs/read.png'),
     },
     {
       id: '5',
-      title: 'Write',
+      title: 'Entertainment',
       subtitle: 'Task 5',
-      image: require('./imgs/img3.png'),
+      image: require('./imgs/entertainment.png'),
     },
     {
       id: '6',
-      title: 'Exercise',
+      title: 'Workout',
       subtitle: 'Task 6',
-      image: require('./imgs/img2.png'),
+      image: require('./imgs/workout.png'),
     },
     {
       id: '7',
-      title: 'Cook',
+      title: 'Grocery Shopping',
       subtitle: 'Task 7',
-      image: require('./imgs/img1.png'),
+      image: require('./imgs/grocery.png'),
     },
     {
       id: '8',
       title: 'Sleep',
       subtitle: 'Task 8',
-      image: require('./imgs/img2.png'),
+      image: require('./imgs/sleep.png'),
     },
   ];
 
@@ -148,7 +148,7 @@ const styles = StyleSheet.create({
   headerImage: {
     position: 'absolute',
     top: 0,
-    right: -250,
+    right: -220,
     width: 50,
     height: 52,
   },
