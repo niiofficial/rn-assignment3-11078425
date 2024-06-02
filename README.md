@@ -1,5 +1,5 @@
+# React Native Task Manager
 
-<<<<<<< HEAD
 This project is a React Native application built based on the provided UI mockup. The application includes various core components and custom components to render a list of categories and ongoing tasks. The app is styled to closely match the UI design and includes features such as a search bar, category list, and ongoing task list.
 
 ## Components
@@ -26,8 +26,9 @@ A custom component used to render each task in the vertical list. It includes th
 - **Image**: Used to display icons and images.
 
 ## Screenshots
+Add screenshots of your app here to visually showcase the design and functionality.
 
-![AppScreeshot](FigmaDuplicate\imgs\app screenshot.png)
+![App Screenshot](FigmaDuplicate\imgs\app screenshot.png)
 
 ## Installation
 
@@ -67,10 +68,3 @@ This application is designed to provide a user-friendly interface for managing t
 
 ## Commit History
 Each task has been committed separately to ensure a clear and organized commit history.
-
-## Student ID
-
-11078425
-=======
->>>>>>> 698c09f11cfa0bfcf6315f2efb3c91a650debd69
-
